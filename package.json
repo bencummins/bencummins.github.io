@@ -1,5 +1,7 @@
 {
   "name": "calcgame",
+  "homepage": "https://bencummins.github.io/build",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
